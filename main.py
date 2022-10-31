@@ -10,23 +10,23 @@ elif y<x and z>x and z>y :
   print ("en kucuk sayi:y")
 
 elif y>x and y>z and z>x:
-  print ("en büyük sayı:y")
-  print ("en küçük sayı:x")
+  print ("en buyuk sayi:y")
+  print ("en kucuk sayi:x")
 
 elif y>x and y>z and x>z:
-  print ("en büyük sayı:y")
-  print ("en küçük sayı:z") 
+  print ("en buyuk sayi:y")
+  print ("en kucuk sayi:z") 
 
 elif x>z and x>y and y>z:
-  print ("en büyük sayı:x")
-  print ("en küçük sayı:z")
+  print ("en buyuk sayi:x")
+  print ("en kucuk sayi:z")
 
 elif x>z and x>y and y<z:
-  print ("en büyük sayı:x")
-  print ("en küçük sayı:y")
+  print ("en buyuk sayi:x")
+  print ("en kucuk sayi:y")
 
 else:
-  print("en büyük veya en küçük yok")
+  print("en buyuk veya en kucuk yok")
   
 
   
