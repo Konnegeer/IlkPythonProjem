@@ -2,12 +2,12 @@ x = 15
 y = 14
 z = 13
 if  y>x and z>x and z>y :
-  print("en büyük sayı:z")
-  print("en küçük sayı:x")
+  print("en buyuk sayi:z")
+  print("en kucuk sayi:x")
 
 elif y<x and z>x and z>y :
-  print ("en büyük sayı:z")
-  print ("en küçük sayı:y")
+  print ("en buyuk sayi:z")
+  print ("en kucuk sayi:y")
 
 elif y>x and y>z and z>x:
   print ("en büyük sayı:y")
